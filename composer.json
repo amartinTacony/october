@@ -25,10 +25,10 @@
     "require": {
         "php": ">=5.4",
         "laravel/framework": "4.2.*",
-        "october/system": "~1.0",
-        "october/backend": "~1.0",
-        "october/cms": "~1.0",
-        "october/rain": "~1.0"
+        "october/system": "dev-laravel4.2",
+        "october/backend": "dev-laravel4.2",
+        "october/cms": "dev-laravel4.2",
+        "october/rain": "dev-laravel4.2"
     },
     "autoload-dev": {
         "classmap": [
